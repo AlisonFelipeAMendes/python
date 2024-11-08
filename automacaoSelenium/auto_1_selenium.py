@@ -19,5 +19,5 @@ def automacao ():
 
 
 #Fechar o navegador
-navegador.quit()
+# navegador.quit()
 
